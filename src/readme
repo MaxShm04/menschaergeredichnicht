@@ -1,0 +1,11 @@
+Field:
+    - verwaltet Feld, weiß ob wer drauf ist oder nicht, scheißt, return an Team
+
+Team:
+    - verwaltet Figuren
+
+Figure:
+    - macht Schritte
+
+Game:
+    - main ablauf
